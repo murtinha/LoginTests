@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LoginTests</string>
+    <string name="server_client_id">DY6rujJ7Js74PK3rs-J93AiW</string>
     <string name="facebook_app_id">537118150225311</string>
 </resources>
